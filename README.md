@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnderBone.
+- 👋 Hi, I’m @EnderBone,I'm an Grade Nine student.
 - 👀 I’m interested in Python, c++.
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on Python.
